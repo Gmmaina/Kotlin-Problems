@@ -1,0 +1,24 @@
+type: sorting
+options:
+  - println("!")
+  - print("Kotlin is a modern programming language.")
+  - print("I will finish studying Kotlin in ")
+  - "fun main() {"
+  - "}"
+  - println()
+  - print(2024)
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/23808#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
